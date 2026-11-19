@@ -1,0 +1,21 @@
+{
+    "black_list_keys_enable": false,
+    "white_list_keys_enable": false,
+    "black_list_keys": [
+    ],
+    "white_list_keys": [
+    ],
+    "black_list_design_keys_enable": false,
+    "white_list_design_keys_enable": false,
+    "black_list_design_keys": [],
+    "white_list_design_keys": [
+    ],
+    "force_update": false,
+    "update_describe": {
+        "zh-cn": "1.体验优化",
+        "en-us": "1.The experience is optimized."
+    },
+    "version": "1.0.0.2",
+    "url": "https://gitee.com/flame_cyclone/fcassistant-lite-binary/releases/download/1.0.0.2/FCAssistantLite.exe",
+    "url_x86": "https://gitee.com/flame_cyclone/fcassistant-lite-binary/releases/download/1.0.0.2/FCAssistantLite_x86.exe"
+}

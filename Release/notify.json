@@ -1,0 +1,9 @@
+{
+    "notify_id": 0,
+    "restart_show": true,
+    "for_users_type": 0,
+    "notify_message": {
+        "zh-cn": "非常感谢您使用合卡小助手\r\n从1.0.1.0版本开始, 自定义菜单功能将从程序授权码中分离出来, 如需使用此功能, 需单独注册自定义菜单的授权码.\r\n在2023.9.30前购买过小助手完全版的用户可享受半价购买自定义菜单的授权码\r\n以下为作者联系方式\r\nQQ:1490868135 \r\n网盘: http://flamecyclone.ysepan.com/",
+        "en-us": "Thank you very much for using the FCAssistant\r\nStarting from 1.0.1.0 version, the custom menu function will be separated from the program authorization code. \r\nIf you want to use this function, you need to register the authorization code of the custom menu separately.\r\nIf you have purchased the full version of the assistant before 2023.9.20, \r\nyou can enjoy the purchase of the custom menu authorization code at half price\r\nBelow are the author's contact details\r\nQQ:1490868135\r\nNetwork Disk: http://flamecyclone.ysepan.com/"
+    }
+}
